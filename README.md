@@ -1,5 +1,5 @@
 # SwitchViewGroup
-Android中一个垂直运动的广告条,运用动画层来达到不会卡顿的效果,仅供参考原理，实际运用还请使用Android原生控件SwitchView
+Android中一个垂直运动的广告条,运用动画层来达到不会卡顿的效果,仅供参考原理，实际运用还请使用Android原生控件ViewAnimator
 
 #Usage
 ```
